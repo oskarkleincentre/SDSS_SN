@@ -1,0 +1,26 @@
+# SDSS Types (last synced to SDSS update in 06/30/2014 by Masao Sako)
+TypeID,ClassDescription
+004,dipole
+005, variables
+091,photo-II (no spec-z)
+092,photo-Ibc (no spec-z)
+093,photo-Ia (no spec-z)
+094,zhost-II (with spec-z)
+095,zhost-Ibc (with spec-z)
+096,zhost-Ia (with spec-z)
+101,photo-II (no spec-z; high purity)
+102,photo-Ibc (no spec-z; high purity)
+103,photo-Ia (no spec-z; high purity)
+104,zhost-II (with spec-z; high purity)
+105,zhost-Ibc (with spec-z; high purity)
+106,zhost-Ia (with spec-z; high purity)
+110,spectroscopic QSO
+111,confirmed SN Ib
+112,confirmed SN Ic
+113,confirmed SN II
+114,SuperLuminous SN
+116,confirmed SN Ic (external confirmation)
+117,confirmed SN II (external confirmation)
+118,confirmed SN Ia (external confirmation)
+119,probable SN Ia
+120,confirmed SN Ia
